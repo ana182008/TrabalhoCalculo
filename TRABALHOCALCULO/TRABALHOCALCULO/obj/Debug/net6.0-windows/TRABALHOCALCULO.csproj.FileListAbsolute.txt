@@ -1,0 +1,17 @@
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\bin\Debug\net6.0-windows\TRABALHOCALCULO.exe
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\bin\Debug\net6.0-windows\TRABALHOCALCULO.deps.json
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\bin\Debug\net6.0-windows\TRABALHOCALCULO.runtimeconfig.json
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\bin\Debug\net6.0-windows\TRABALHOCALCULO.dll
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\bin\Debug\net6.0-windows\TRABALHOCALCULO.pdb
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\obj\Debug\net6.0-windows\TRABALHOCALCULO.csproj.AssemblyReference.cache
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\obj\Debug\net6.0-windows\TRABALHOCALCULO.Form1.resources
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\obj\Debug\net6.0-windows\TRABALHOCALCULO.csproj.GenerateResource.cache
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\obj\Debug\net6.0-windows\TRABALHOCALCULO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\obj\Debug\net6.0-windows\TRABALHOCALCULO.AssemblyInfoInputs.cache
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\obj\Debug\net6.0-windows\TRABALHOCALCULO.AssemblyInfo.cs
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\obj\Debug\net6.0-windows\TRABALHOCALCULO.csproj.CoreCompileInputs.cache
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\obj\Debug\net6.0-windows\TRABALHOCALCULO.dll
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\obj\Debug\net6.0-windows\refint\TRABALHOCALCULO.dll
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\obj\Debug\net6.0-windows\TRABALHOCALCULO.pdb
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\obj\Debug\net6.0-windows\TRABALHOCALCULO.genruntimeconfig.cache
+D:\ana jullya\TRABALHOCALCULO\TRABALHOCALCULO\obj\Debug\net6.0-windows\ref\TRABALHOCALCULO.dll
